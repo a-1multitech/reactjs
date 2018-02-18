@@ -1,0 +1,11 @@
+# basic options - just a comment
+title: ReactJS Tutorials and more ...
+author: Sharadendra Sharma
+email: mail4sharad@gmail.com
+description: ReactJS Tutorials and Training
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
+theme: minima
